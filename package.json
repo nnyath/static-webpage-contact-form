@@ -1,0 +1,23 @@
+{
+  "name": "static-webpage-contact-form",
+  "version": "1.0.0",
+  "description": "a google apps script that allows a static webpage to collect info which can then email and/or store the information via gmail/drive spreadsheet in glorious es6 source code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static",
+    "webpage",
+    "form",
+    "collection",
+    "apps",
+    "script",
+    "gmail",
+    "spreadsheet",
+    "serverless",
+    "email"
+  ],
+  "author": "kenny.inthirath@gmail.com",
+  "license": "MIT"
+}
